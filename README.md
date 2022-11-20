@@ -21,7 +21,7 @@ I prefer React  for web front-end development.
 
 ## 🚀 Skills
 <p>
- <a href="#" target="_blank"> <img src="https://pythondunyasi.com/wp-content/uploads/2021/03/1024px-Python-logo-notext.svg_.png" alt="python" height="50"/> </a>  
+ <a href="#" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" height="50"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
  <!-- <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="50"/> </a>  -->

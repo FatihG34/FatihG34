@@ -9,10 +9,10 @@
 
 ### What I'm using ? 🛠 
 
-I prefer React  for web front-end development.
+I prefer React  for web front-end development and Django - Rest Framework for back-end development.
 <br/>
 
-- Python, ,JavaScript, React.js, Django, HTML5, CSS3, MUI, Bootstrap, Git, GitHub
+- Python, ,JavaScript, TypeScript, React.js, Redux, Context-API, Django, Rest Framework, HTML5, CSS3, MUI, Bootstrap, SCSS, TailwindCSS, SQLite, PostgreSQL, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -32,16 +32,20 @@ I prefer React  for web front-end development.
  <!-- <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a>  -->
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="scss" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="50"/> </a>
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" alt="Tailwind_css" height="50"/> </a> 
  <!-- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a>  -->
+ <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50"/> </a> 
  <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a>  -->
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="gitHub" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs-code" height="50"/> </a>
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="50"/> </a>
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" alt='Slack' height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt='Discord' height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt='Jira' height="50"/> </a>
 </p>
 
 ## 📈 Statistics

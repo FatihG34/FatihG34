@@ -43,7 +43,7 @@ I prefer React  for web front-end development and Django - Rest Framework for ba
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="50"/> </a>
  <a href="#" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50"/></a>
  <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a>  -->
- <a href="#" target="_blank"> <img src="https://storage-us-gcs.bfldr.com/h5psv9c3jbk88pwc3xn79pp/v/1069931061/original/MongoDB_SpringGreen.png?Expires=1723117624&KeyName=gcs-bfldr-prod&Signature=V0icJyYHzdmPmCBtds54GK7eH3U=" alt="MongoDB" height="30"/> </a> 
+ <a href="#" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="MongoDB" height="30"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="gitHub" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vs-code" height="50"/> </a>

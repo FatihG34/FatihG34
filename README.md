@@ -12,7 +12,7 @@
 I prefer React  for web front-end development and Django - Rest Framework for back-end development.
 <br/>
 
-- Python, ,JavaScript, TypeScript, React.js, Next.js, Redux, Context-API, Django, Rest Framework, FastAPI, HTML5, CSS3, MUI, Bootstrap, SCSS, TailwindCSS, SQLite, PostgreSQL, Git, GitHub
+- Python, ,JavaScript, TypeScript, React.js, Next.js, Redux, Context-API, Django, Rest Framework, FastAPI, HTML5, CSS3, MUI, Bootstrap, SCSS, TailwindCSS, SQLite, PostgreSQL, MongoDB, Git, GitHub
 
 - 💬 Ask  me about anything that you want to learn
 

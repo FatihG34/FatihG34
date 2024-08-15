@@ -9,10 +9,12 @@
 
 ### What I'm using ? 🛠
 
-I prefer React  for web front-end development and Django - Rest Framework for back-end development.
+I prefer React, Next.js for web front-end development and Django - Rest Framework, FastAPI for back-end development.
 <br/>
 
 - Python, ,JavaScript, TypeScript, React.js, Next.js, Redux, Context-API, Django, Rest Framework, FastAPI, HTML5, CSS3, MUI, Bootstrap, SCSS, TailwindCSS, SQLite, PostgreSQL, MongoDB, Git, GitHub
+
+- I'am learning Vue, Angular and Go ...
 
 - 💬 Ask  me about anything that you want to learn
 

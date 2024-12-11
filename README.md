@@ -26,7 +26,7 @@ I prefer React, Next.js for web front-end development and Django - Rest Framewor
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" alt="java" height="75"/> </a>
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react.js" width="50"/> </a>
  <a href="#" target="_blank"> <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="next.js" width="50"/> </a>
- <a href="#" target="_blank"> <img src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" alt="angular" width="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://angular.dev/assets/images/press-kit/angular_pride.png" alt="angular" width="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="django" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" height="50"/> </a>
 <a href="#"target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50"></a>

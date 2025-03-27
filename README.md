@@ -9,7 +9,7 @@
 I prefer React, Next.js for web front-end development and Django - Rest Framework, FastAPI for back-end development.
 <br/>
 
-- Python, ,JavaScript, TypeScript, React.js, Next.js, Redux, Context-API, Django, Rest Framework, FastAPI, HTML5, CSS3, MUI, Bootstrap, SCSS, TailwindCSS, SQLite, PostgreSQL, MongoDB, Git, GitHub
+- Python, ,JavaScript, TypeScript, React.js, Next.js, Redux, Context-API, Django, Rest Framework, FastAPI, ExpressJS, HTML5, CSS3, MUI, Bootstrap, SCSS, TailwindCSS, SQLite, PostgreSQL, MongoDB, Git, GitHub
 
 - I'am learning Angular and Java Spring Boot ...
 

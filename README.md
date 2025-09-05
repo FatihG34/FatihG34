@@ -17,7 +17,7 @@
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/-Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" />
   </a> -->
-  <img src="https://komarev.com/ghpvc/?username=FatihG34&color=blueviolet&style=flat-square" style="height: 2rem" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=FatihG34&color=blueviolet&style=flat-square" style="height: 1.60rem" alt="profile views"/>
 </p>
 
 ---

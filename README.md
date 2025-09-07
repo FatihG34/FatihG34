@@ -40,11 +40,14 @@
 > Creating scalable, modern, and user-friendly applications.
 
 > developer@github:~$ what_are_you_busy_with
-> Always learning, always coding, my family ...
+> Always learning, always coding, my family ...z
 ````
 
 🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nextjs,angular,django,fastapi,spring,nodejs,express,postgres,mongodb,sqlite,redux,tailwind,bootstrap,materialui,html,css,sass,git,github,docker,vscode&theme=dark" /> </p>
+
+<p align="center">
+<img src="https://skills.syvixor.com/api/icons?i=python,javascript,typescript,java,reactjs,nextjs,angularjs,springboot,django,djangorestframework,nodejs,expressjs,fastapi,postgresql,mongodb,sqlite,postman,swagger,docker,redux,html,css3,tailwindcss,bootstrap,materialui,postcss,sass,figma,git,github,githubactions,jira,amazonwebservices,googlecloud,ios,linux,npm,bun,yarn,homebrew,gitbash,visualstudiocode,githubcopilot,chatgpt,claudeai,googlegemini,grok,perplexity,deepseek,cursor,windsurf"/>
+</p>
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FatihG34&theme=radical&show_icons=true&hide_border=true" width="49%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihG34&theme=radical&hide_border=true" width="49%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihG34&theme=radical&layout=compact&hide_border=true" width="50%"> </p>

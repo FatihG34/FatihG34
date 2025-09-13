@@ -45,8 +45,21 @@
 
 🚀 Tech Stack
 
-<p align="center">
-<img src="https://skills.syvixor.com/api/icons?i=python,javascript,typescript,java,reactjs,nextjs,angularjs,springboot,django,djangorestframework,nodejs,expressjs,fastapi,postgresql,mongodb,sqlite,postman,swagger,docker,redux,html,css3,tailwindcss,bootstrap,materialui,postcss,sass,figma,git,github,githubactions,jira,amazonwebservices,googlecloud,ios,linux,npm,bun,yarn,homebrew,gitbash,visualstudiocode,githubcopilot,chatgpt,claudeai,googlegemini,grok,perplexity,deepseek,cursor,windsurf"/>
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?i=python,javascript,typescript,java"/>
+</p>
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?i=reactjs,nextjs,angularjs,redux,html,css3,tailwindcss,bootstrap,materialui,postcss,sass,figma"/>
+</p>
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?i=springboot,django,djangorestframework,fastapi,nodejs,expressjs,postgresql,mongodb,sqlite,postman,swagger,docker"/>
+</p>
+</p>
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?i=git,github,githubactions,jira,amazonwebservices,googlecloud,ios,linux,npm,bun,yarn,homebrew,gitbash"/>
+</p>
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,githubcopilot,chatgpt,claudeai,googlegemini,grok,perplexity,deepseek,cursor,windsurf"/>
 </p>
 
 📊 GitHub Stats

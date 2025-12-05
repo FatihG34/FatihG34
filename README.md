@@ -1,6 +1,7 @@
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21nOG5nMzJuampiaHc4bHRhMndsYjd5d2VvMW50NHM0NHd0cXRjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lJ8ywG1ncm9FXW/giphy.gif" width="300"/>
+  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21nOG5nMzJuampiaHc4bHRhMndsYjd5d2VvMW50NHM0NHd0cXRjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lJ8ywG1ncm9FXW/giphy.gif" width="300"/> -->
+  <img src="giphy.gif" width="300"/>
   <!-- <img src="eagle-developer.gif" width="300"/> -->
 </p>
 
@@ -40,7 +41,7 @@
 > Creating scalable, modern, and user-friendly applications.
 
 > developer@github:~$ what_are_you_busy_with
-> Always learning, always coding, my family ...z
+> Always learning, always coding, my family ...
 ````
 
 🚀 Tech Stack

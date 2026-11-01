@@ -1,72 +1,102 @@
-<!-- Banner / GIF -->
-<p align="center">
-  <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21nOG5nMzJuampiaHc4bHRhMndsYjd5d2VvMW50NHM0NHd0cXRjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lJ8ywG1ncm9FXW/giphy.gif" width="300"/> -->
-  <img src="./brain.gif" width="300"/>
-  <!-- <img src="eagle-developer.gif" width="300"/> -->
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Fatih Günaydın</h1>
-<h3 align="center">⚡ Full-Stack Developer | Building Scalable & User-Friendly Apps</h3>
+# FATIH GÜNAYDIN
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatih-gunaydin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- <a href="https://fire-blog-app-milestone.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> -->
-  <!-- <a href="#">
-    <img src="https://img.shields.io/badge/-Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> -->
-  <img src="https://komarev.com/ghpvc/?username=FatihG34&color=blueviolet&style=flat-square" style="height: 1.60rem" alt="profile views"/>
-</p>
+### FULL STACK SOFTWARE DEVELOPER
+
+**Building scalable software. Engineering meaningful solutions.**
+
+[GitHub](https://github.com/FatihG34)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
-- 💻 Experienced in **React, Next.js, Angular** for front-end  
-- ⚙️ Skilled with **Django, FastAPI, Spring Boot** for back-end  
-- 🗄️ Hands-on with **PostgreSQL, MongoDB, SQLite**  
-- 🌱 Currently learning **Advanced Angular & Spring Boot**  
-- 📫 Connect via [LinkedIn](https://www.linkedin.com/in/fatih-gunaydin/)  
+## About Me
 
----
+I'm a **Full Stack Software Developer** with 4+ years of professional experience designing, developing, and deploying software solutions.
 
-```bash
+I work across frontend development, backend engineering, database design, API development, and production delivery. My focus is on turning complex business requirements into reliable, maintainable applications — from architecture and implementation to deployment.
 
-> developer@github:~$ whoami
-> I'm Fatih, a passionate full-stack developer.
+- **Full-stack engineering:** modern web applications and end-to-end product delivery.
+- **Backend engineering:** APIs, business logic, integrations, and data processing services.
+- **Business platforms:** e-commerce, production workflows, order management, and SaaS applications.
+- **Engineering practices:** clean code, SOLID principles, maintainability, and performance.
+- **AI-assisted development:** using AI tools and agent-based workflows thoughtfully in the engineering lifecycle.
 
-> developer@github:~$ focus
-> Creating scalable, modern, and user-friendly applications.
+## Engineering Focus
 
-> developer@github:~$ what_are_you_busy_with
-> Always learning, always coding, my family ...
-````
+| Backend & APIs | Frontend | Data & Infrastructure |
+|---|---|---|
+| Java · Spring Boot | Angular · React | PostgreSQL · MongoDB |
+| Node.js · Python | Next.js · TypeScript | Redis · MySQL |
+| FastAPI · REST APIs | JavaScript · Tailwind CSS | Docker · Linux · Nginx |
+| Integrations · Background jobs | Responsive interfaces | GitHub Actions · CI/CD |
 
-🚀 Tech Stack
+## Technology Stack
 
-<p align="left">
-<img src="https://skills.syvixor.com/api/icons?i=python,javascript,typescript,java"/>
-</p>
-<p align="left">
-<img src="https://skills.syvixor.com/api/icons?i=reactjs,nextjs,angularjs,redux,html,css3,tailwindcss,bootstrap,materialui,postcss,sass,figma"/>
-</p>
-<p align="left">
-<img src="https://skills.syvixor.com/api/icons?i=springboot,django,djangorestframework,fastapi,nodejs,expressjs,postgresql,mongodb,sqlite,postman,swagger,docker"/>
-</p>
-</p>
-<p align="left">
-<img src="https://skills.syvixor.com/api/icons?i=git,github,githubactions,jira,amazonwebservices,googlecloud,ios,linux,npm,bun,yarn,homebrew,gitbash"/>
-</p>
-<p align="left">
-<img src="https://skills.syvixor.com/api/icons?i=visualstudiocode,githubcopilot,chatgpt,claudeai,googlegemini,grok,perplexity,deepseek,cursor,windsurf"/>
-</p>
+**Languages & frameworks**  
+Java · Spring Boot · Node.js · Python · FastAPI · Angular · React · Next.js · TypeScript · JavaScript
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FatihG34&theme=radical&show_icons=true&hide_border=true" width="49%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatihG34&theme=radical&hide_border=true" width="49%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihG34&theme=radical&layout=compact&hide_border=true" width="50%"> </p>
+**Databases & infrastructure**  
+PostgreSQL · MongoDB · MySQL · Redis · Docker · Linux · Nginx · Bash · Git · GitHub Actions
 
-🌱 Fun Fact
+## GitHub Overview
 
-⚡ Code + Coffee + Music = Perfect Flow
-🚀 Always curious, always learning, always building.
+<!-- PROFILE_STATS:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/overview-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/statistics/overview-light.svg">
+  <img src="./assets/statistics/overview-light.svg" alt="GitHub public profile overview">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/languages-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/statistics/languages-light.svg">
+  <img src="./assets/statistics/languages-light.svg" alt="Public repository language distribution">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/statistics/contributions-light.svg">
+  <img src="./assets/statistics/contributions-light.svg" alt="Public contributions over the last 12 months">
+</picture>
+<p align="center"><sub>Automatically generated from GitHub's own API. Public data only · Updated daily.</sub></p>
+<!-- PROFILE_STATS:END -->
+
+## What I Build
+
+### Business Applications & SaaS
+
+Role-based business applications, multi-tenant platform concepts, operational dashboards, and workflow-oriented systems.
+
+### E-commerce & Integrations
+
+Product and variant management, inventory synchronization, order workflows, marketplace integrations, and automation services.
+
+### Backend & Data Processing
+
+Maintainable APIs, domain logic, image/file processing workflows, database models, and background services.
+
+## Engineering Principles
+
+- **Clarity over cleverness:** code should be easy to understand and maintain.
+- **Separation of concerns:** clear boundaries between responsibilities.
+- **Design for change:** modular systems that can evolve with business needs.
+- **Measure before optimizing:** performance decisions based on evidence.
+- **Security by design:** least privilege, validation, and explicit authorization.
+
+## Let's Connect
+
+I'm interested in full-stack engineering roles, remote and international opportunities, freelance engagements, and collaborations on meaningful software products.
+
+- GitHub: [@FatihG34](https://github.com/FatihG34)
+- LinkedIn: [Fatih Günaydın](https://www.linkedin.com/in/fatih-gunaydin/)
+
+<div align="center">
+
+**Let's turn ideas into reliable software.**
+
+<sub>Designed and maintained by Fatih Günaydın.</sub>
+
+</div>

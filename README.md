@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **Full Stack Software Developer** with 4+ years of professional experience designing, developing, and deploying software solutions.
+I'm a **Full Stack Software Developer** with 5+ years of professional experience designing, developing, and deploying software solutions.
 
 I work across frontend development, backend engineering, database design, API development, and production delivery. My focus is on turning complex business requirements into reliable, maintainable applications — from architecture and implementation to deployment.
 

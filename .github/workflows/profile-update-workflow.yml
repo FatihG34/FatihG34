@@ -10,7 +10,7 @@ on:
     paths:
       - "scripts/**"
       - "config/profile.json"
-      - ".github/workflows/profile-update.yml"
+      - ".github/workflows/profile-update-workflow.yml"
 
 permissions:
   contents: write
@@ -43,10 +43,10 @@ jobs:
 
       - name: Commit generated assets
         run: |
-          if [[ -n "$(git status --porcelain assets/statistics)" ]]; then
+          if [[ -n "$(git status --porcelain README.md assets/statistics)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/statistics/
+            git add README.md assets/statistics/
             git commit -m "chore: update profile statistics"
             git push
           else

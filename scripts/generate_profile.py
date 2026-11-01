@@ -13,6 +13,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 from github_client import GitHubClient  # noqa: E402
 from statistics import collect_statistics  # noqa: E402
 from generate_svgs import generate_all  # noqa: E402
+from profile_readme import update_readme  # noqa: E402
 
 
 def main() -> int:
@@ -27,6 +28,8 @@ def main() -> int:
     output.write_text(json.dumps(stats, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Generated profile statistics for {username} at {stats['generated_at']}")
     print(f"Public repositories: {stats['public_repositories']} | Stars: {stats['stars']} | Contributions: {stats['contributions']['total']}")
+    if update_readme(ROOT, stats):
+        print("Updated README GitHub Overview section.")
     return 0
 
 

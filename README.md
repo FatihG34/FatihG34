@@ -41,9 +41,9 @@ Java · Spring Boot · Node.js · Python · FastAPI · Django · Angular · Reac
 **Databases & infrastructure**  
 PostgreSQL · MongoDB · MySQL · Redis · Docker · Linux · Nginx · Bash · Git · GitHub Actions
 
+<!-- PROFILE_STATS:START -->
 ## GitHub Overview
 
-<!-- PROFILE_STATS:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/overview-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/statistics/overview-light.svg">

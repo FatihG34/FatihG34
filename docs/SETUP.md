@@ -70,6 +70,8 @@ assets/statistics/
 └── stats.json
 ```
 
+The generator also rewrites the README block between the `PROFILE_STATS:START` and `PROFILE_STATS:END` markers, including the `## GitHub Overview` heading. When the public profile exposes no meaningful data (no repositories, stars, forks, followers, contributions, or languages), the whole section is removed from the README instead of showing an empty statistics block; it reappears automatically on the first run that collects data again. Unchanged content produces no diff, so the daily workflow only commits the README when section visibility actually changes.
+
 The README uses GitHub-supported HTML `<picture>` elements and the `prefers-color-scheme` media feature to select the Light or Dark SVG. GitHub documents this responsive-image approach in its profile README guide.
 
 ## 7. Metric definitions
@@ -89,6 +91,7 @@ The workflow uses an authenticated `GITHUB_TOKEN`. The client handles pagination
 - **GraphQL error:** inspect the GraphQL error in the Actions log and verify the workflow token is present.
 - **Permission denied on push:** check Actions workflow permissions and branch protection rules.
 - **No SVG updates:** files may be unchanged; inspect the workflow log and `git status`.
+- **GitHub Overview section disappeared:** the profile had no public data (all counters zero); it returns automatically once the APIs report data again.
 - **Images not visible:** confirm SVGs exist on the default branch and README paths match.
 - **Schedule did not run at the exact minute:** scheduled workflows can be delayed; use `workflow_dispatch` to run manually.
 

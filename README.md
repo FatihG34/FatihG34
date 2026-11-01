@@ -30,13 +30,13 @@ I work across frontend development, backend engineering, database design, API de
 |---|---|---|
 | Java · Spring Boot | Angular · React | PostgreSQL · MongoDB |
 | Node.js · Python | Next.js · TypeScript | Redis · MySQL |
-| FastAPI · REST APIs | JavaScript · Tailwind CSS | Docker · Linux · Nginx |
+| Django · FastAPI · REST APIs | JavaScript · Tailwind CSS | Docker · Linux · Nginx |
 | Integrations · Background jobs | Responsive interfaces | GitHub Actions · CI/CD |
 
 ## Technology Stack
 
 **Languages & frameworks**  
-Java · Spring Boot · Node.js · Python · FastAPI · Angular · React · Next.js · TypeScript · JavaScript
+Java · Spring Boot · Node.js · Python · FastAPI · Django · Angular · React · Next.js · TypeScript · JavaScript
 
 **Databases & infrastructure**  
 PostgreSQL · MongoDB · MySQL · Redis · Docker · Linux · Nginx · Bash · Git · GitHub Actions
@@ -56,12 +56,12 @@ PostgreSQL · MongoDB · MySQL · Redis · Docker · Linux · Nginx · Bash · G
   <img src="./assets/statistics/languages-light.svg" alt="Public repository language distribution">
 </picture>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/statistics/contributions-light.svg">
   <img src="./assets/statistics/contributions-light.svg" alt="Public contributions over the last 12 months">
-</picture>
-<p align="center"><sub>Automatically generated from GitHub's own API. Public data only · Updated daily.</sub></p>
+</picture> -->
+<!-- <p align="center"><sub>Automatically generated from GitHub's own API. Public data only · Updated daily.</sub></p> -->
 <!-- PROFILE_STATS:END -->
 
 ## What I Build

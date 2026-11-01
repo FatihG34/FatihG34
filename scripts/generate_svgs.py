@@ -3,17 +3,26 @@ from __future__ import annotations
 
 from html import escape
 from pathlib import Path
-from typing import Any
+from typing import Any, TypedDict
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "assets" / "statistics"
-PALETTES = {
+class Palette(TypedDict):
+    bg: str
+    panel: str
+    text: str
+    muted: str
+    border: str
+    levels: list[str]
+
+
+PALETTES: dict[str, Palette] = {
     "light": {"bg": "#ffffff", "panel": "#f6f8fa", "text": "#1f2328", "muted": "#656d76", "border": "#d1d9e0", "levels": ["#ebedf0", "#aceebb", "#4ac26b", "#2da44e", "#116329"]},
     "dark": {"bg": "#0d1117", "panel": "#161b22", "text": "#e6edf3", "muted": "#9198a1", "border": "#30363d", "levels": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]},
 }
 
 
-def svg_document(width: int, height: int, body: str, palette: dict[str, Any], title: str) -> str:
+def svg_document(width: int, height: int, body: str, palette: Palette, title: str) -> str:
     style = (
         f"text{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}}"
         f".title{{font-size:17px;font-weight:700;fill:{palette['text']}}}"
@@ -29,7 +38,7 @@ def svg_document(width: int, height: int, body: str, palette: dict[str, Any], ti
     )
 
 
-def card(x: int, y: int, width: int, height: int, label: str, value: str, palette: dict[str, Any]) -> str:
+def card(x: int, y: int, width: int, height: int, label: str, value: str, palette: Palette) -> str:
     return (
         f'<rect x="{x}" y="{y}" width="{width}" height="{height}" rx="10" fill="{palette["panel"]}" stroke="{palette["border"]}"/>'
         f'<text x="{x+16}" y="{y+25}" class="label">{escape(label)}</text>'
@@ -97,7 +106,7 @@ def contributions_svg(stats: dict[str, Any], theme: str, width: int) -> str:
         from datetime import date
         first_date = date.fromisoformat(days[0]["date"])
         first_weekday = (first_date.weekday() + 1) % 7  # Sunday = row 0
-        for index, day in enumerate(days[-365:]):
+        for day in days[-365:]:
             day_date = date.fromisoformat(day["date"])
             day_offset = (day_date - first_date).days + first_weekday
             week_column, weekday_row = divmod(day_offset, 7)
@@ -111,7 +120,7 @@ def contributions_svg(stats: dict[str, Any], theme: str, width: int) -> str:
         contribution = stats["contributions"]
         body += f'<text x="20" y="148" class="label">{contribution["total"]:,} public contributions in the selected period</text>'
         body += f'<text x="20" y="172" class="small">Commits: {contribution["commits"]:,} · Issues: {contribution["issues"]:,} · Pull requests: {contribution["pull_requests"]:,}</text>'
-        body += '<text x="20" y="195" class="small">Each square represents one day. Private contributions are excluded.</text>'
+        # body += '<text x="20" y="195" class="small">Each square represents one day. Private contributions are excluded.</text>'
     return svg_document(width, 215, body, palette, "Public GitHub contribution activity")
 
 

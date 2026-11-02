@@ -55,13 +55,6 @@ PostgreSQL · MongoDB · MySQL · Redis · Docker · Linux · Nginx · Bash · G
   <source media="(prefers-color-scheme: light)" srcset="./assets/statistics/languages-light.svg">
   <img src="./assets/statistics/languages-light.svg" alt="Public repository language distribution">
 </picture>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/contributions-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/statistics/contributions-light.svg">
-  <img src="./assets/statistics/contributions-light.svg" alt="Public contributions over the last 12 months">
-</picture> -->
-<!-- <p align="center"><sub>Automatically generated from GitHub's own API. Public data only · Updated daily.</sub></p> -->
 <!-- PROFILE_STATS:END -->
 
 ## What I Build

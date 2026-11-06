@@ -44,11 +44,11 @@ PostgreSQL · MongoDB · MySQL · Redis · Docker · Linux · Nginx · Bash · G
 <!-- PROFILE_STATS:START -->
 ## GitHub Overview
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/overview-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/statistics/overview-light.svg">
   <img src="./assets/statistics/overview-light.svg" alt="GitHub public profile overview">
-</picture>
+</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/statistics/languages-dark.svg">

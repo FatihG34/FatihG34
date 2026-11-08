@@ -1,6 +1,6 @@
 <div align="center">
 
-# FATIH GÜNAYDIN
+# FATİH GÜNAYDIN
 
 ### FULL STACK SOFTWARE DEVELOPER
 
